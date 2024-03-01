@@ -1,0 +1,11 @@
+{
+  "name": "ezvidbackend",
+  "version": "1.0.0",
+  "description": "A backend for simple video sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sorbopriyo Roy",
+  "license": "ISC"
+}
